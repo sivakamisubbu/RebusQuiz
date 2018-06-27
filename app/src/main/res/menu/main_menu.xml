@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:Rebus2="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_home"
+        android:icon="@mipmap/ic_home_black_24dp"
+        android:title="@string/action_home_icon"
+        Rebus2:showAsAction="ifRoom" />
+</menu>
